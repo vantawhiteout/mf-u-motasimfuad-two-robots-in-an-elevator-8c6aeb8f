@@ -4,7 +4,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const ENTRY =
-  "Smells like hot dust in here. I'd blame the elevator, but that's my own cooling fan.";
+  "Going up. Nine percent; if I go quiet, that's power-saving mode, not a statement about us.";
 
 const OUTPUT = "/output/entry.txt";
 
